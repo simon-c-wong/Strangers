@@ -1,9 +1,11 @@
 # Strangers — A Connection Card Game
 
 A browser-based card game inspired by _We're Not Really Strangers_. Pick a
-deck, take turns drawing questions, and move through three levels — from
-**moderate** to **slightly vulnerable** to **super deep**. No surface-level
-small talk.
+deck, take turns drawing questions, and move through three levels that deepen
+as you go — warm-up, then vulnerable, then the questions you don't usually get
+asked. Each deck names its levels in its own voice (e.g. Couples runs
+_Affection → Intimacy → Devotion_; Healing runs _Acknowledgment → Mourning →
+Renewal_). No surface-level small talk.
 
 Once the page loads, the whole game works **offline** — every question is
 bundled into the app, and a service worker caches it for repeat visits. No

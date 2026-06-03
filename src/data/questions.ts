@@ -18,7 +18,7 @@ export const categories: Category[] = [
     levels: [
       {
         id: 1,
-        name: "Moderate",
+        name: "Perception",
         tagline: "Warm up. Notice each other.",
         questions: [
           "What's something you've changed your mind about in the last year?",
@@ -37,7 +37,7 @@ export const categories: Category[] = [
       },
       {
         id: 2,
-        name: "Slightly vulnerable",
+        name: "Candor",
         tagline: "Lean in. Risk a little honesty.",
         questions: [
           "When have you felt most distant from me, even if I didn't notice?",
@@ -56,7 +56,7 @@ export const categories: Category[] = [
       },
       {
         id: 3,
-        name: "Super deep",
+        name: "Communion",
         tagline: "Say the thing you don't usually say.",
         questions: [
           "What's a wound from your past that still shapes how you treat the people you love?",
@@ -83,7 +83,7 @@ export const categories: Category[] = [
     levels: [
       {
         id: 1,
-        name: "Moderate",
+        name: "Affection",
         tagline: "Where we are right now.",
         questions: [
           "When do you feel most loved by me — and is it the way I usually try to show it?",
@@ -102,7 +102,7 @@ export const categories: Category[] = [
       },
       {
         id: 2,
-        name: "Slightly vulnerable",
+        name: "Intimacy",
         tagline: "The things we tiptoe around.",
         questions: [
           "What's a need of yours you've stopped expressing because you assumed I'd say no?",
@@ -121,7 +121,7 @@ export const categories: Category[] = [
       },
       {
         id: 3,
-        name: "Super deep",
+        name: "Devotion",
         tagline: "The center of it.",
         questions: [
           "If our relationship ended tomorrow, what's the one thing you'd never want to leave unsaid?",
@@ -149,7 +149,7 @@ export const categories: Category[] = [
     levels: [
       {
         id: 1,
-        name: "Moderate",
+        name: "Impression",
         tagline: "Beyond the small talk.",
         questions: [
           "What's something you're genuinely passionate about that rarely comes up on a first date?",
@@ -168,7 +168,7 @@ export const categories: Category[] = [
       },
       {
         id: 2,
-        name: "Slightly vulnerable",
+        name: "Disclosure",
         tagline: "Show a little more.",
         questions: [
           "What's a pattern in your relationships you're trying to break?",
@@ -187,7 +187,7 @@ export const categories: Category[] = [
       },
       {
         id: 3,
-        name: "Super deep",
+        name: "Revelation",
         tagline: "If we're being real.",
         questions: [
           "What's the truest thing you could tell me about why your last relationship ended?",
@@ -214,7 +214,7 @@ export const categories: Category[] = [
     levels: [
       {
         id: 1,
-        name: "Moderate",
+        name: "Recollection",
         tagline: "The family you know — and don't.",
         questions: [
           "What's a story about our family that you think I've never heard?",
@@ -233,7 +233,7 @@ export const categories: Category[] = [
       },
       {
         id: 2,
-        name: "Slightly vulnerable",
+        name: "Reckoning",
         tagline: "The harder conversations.",
         questions: [
           "What's something you wish you'd done differently as a parent / sibling / child?",
@@ -252,7 +252,7 @@ export const categories: Category[] = [
       },
       {
         id: 3,
-        name: "Super deep",
+        name: "Legacy",
         tagline: "Before it's too late to say it.",
         questions: [
           "What's something you need me to know before you're gone?",
@@ -279,7 +279,7 @@ export const categories: Category[] = [
     levels: [
       {
         id: 1,
-        name: "Moderate",
+        name: "Awareness",
         tagline: "Check in with yourself.",
         questions: [
           "What have you been avoiding, and what would it cost you to keep avoiding it?",
@@ -298,7 +298,7 @@ export const categories: Category[] = [
       },
       {
         id: 2,
-        name: "Slightly vulnerable",
+        name: "Introspection",
         tagline: "Get honest with yourself.",
         questions: [
           "What part of yourself do you hide because you've decided it's unlovable?",
@@ -317,7 +317,7 @@ export const categories: Category[] = [
       },
       {
         id: 3,
-        name: "Super deep",
+        name: "Catharsis",
         tagline: "Meet yourself completely.",
         questions: [
           "What's the wound underneath your biggest recurring fear?",
@@ -345,7 +345,7 @@ export const categories: Category[] = [
     levels: [
       {
         id: 1,
-        name: "Moderate",
+        name: "Rapport",
         tagline: "The human behind the role.",
         questions: [
           "What part of your job energizes you that probably isn't in your job description?",
@@ -364,7 +364,7 @@ export const categories: Category[] = [
       },
       {
         id: 2,
-        name: "Slightly vulnerable",
+        name: "Sincerity",
         tagline: "A little more truth at work.",
         questions: [
           "When have you felt unseen or overlooked on this team?",
@@ -383,7 +383,7 @@ export const categories: Category[] = [
       },
       {
         id: 3,
-        name: "Super deep",
+        name: "Conviction",
         tagline: "Trust, built on purpose.",
         questions: [
           "What does this work mean to you beyond the paycheck — and has that changed?",
@@ -410,7 +410,7 @@ export const categories: Category[] = [
     levels: [
       {
         id: 1,
-        name: "Moderate",
+        name: "Kinship",
         tagline: "You think you know each other.",
         questions: [
           "What's a moment in our friendship you'd relive if you could?",
@@ -429,7 +429,7 @@ export const categories: Category[] = [
       },
       {
         id: 2,
-        name: "Slightly vulnerable",
+        name: "Confession",
         tagline: "The stuff even besties skip.",
         questions: [
           "When have I let you down without realizing it?",
@@ -448,7 +448,7 @@ export const categories: Category[] = [
       },
       {
         id: 3,
-        name: "Super deep",
+        name: "Loyalty",
         tagline: "What this friendship really is.",
         questions: [
           "What have you survived that I'll never fully understand?",
@@ -476,7 +476,7 @@ export const categories: Category[] = [
     levels: [
       {
         id: 1,
-        name: "Moderate",
+        name: "Acknowledgment",
         tagline: "Naming where you are.",
         questions: [
           "What are you grieving right now, even if it doesn't look like grief?",
@@ -495,7 +495,7 @@ export const categories: Category[] = [
       },
       {
         id: 2,
-        name: "Slightly vulnerable",
+        name: "Mourning",
         tagline: "Letting it be heavy.",
         questions: [
           "What do you blame yourself for, fairly or not?",
@@ -514,7 +514,7 @@ export const categories: Category[] = [
       },
       {
         id: 3,
-        name: "Super deep",
+        name: "Renewal",
         tagline: "Toward the other side.",
         questions: [
           "What did loving them teach you that you'll carry into everything after?",
